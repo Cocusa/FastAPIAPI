@@ -1,0 +1,7 @@
+fastapi
+fdb
+uvicorn
+python-multipart
+pytest
+pytest-env
+httpx
